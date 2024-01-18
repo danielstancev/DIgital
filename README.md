@@ -1,4 +1,4 @@
-DIgital
+Digital
 =======
 
 Digital Project
